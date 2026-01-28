@@ -2,6 +2,8 @@
 
 lien vers [npm](https://www.npmjs.com/)
 
+lien vers [le sujet](https://github.com/sfrenot/javascript/tree/master/projet4)
+
 **Todooo**
 
 - No html pas de carte qui flip (la tuile)
