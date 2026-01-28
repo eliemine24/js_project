@@ -1,4 +1,5 @@
 import { Game } from './game/Game.js';
+import promptSync from 'prompt-sync';
 
-const game = new Game(['Alice', 'Bob']);
-game.start();
+const p1 = new Player("A");
+const p2 = new Player("B");
