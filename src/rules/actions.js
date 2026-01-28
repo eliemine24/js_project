@@ -19,7 +19,7 @@ export function applyCardEffect(Player, card) {
       const prompt = promptSync();
 
       console.log("Choisis un joueur :");
-      validTargets.forEach((p, i) => {
+      getValidTargets.forEach((p, i) => {
       console.log(`${i + 1}. ${p.name}`);
       });
 
